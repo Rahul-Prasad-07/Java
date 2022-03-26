@@ -1,5 +1,5 @@
 # Java
-                                                             Classes & Objects :
+                                                        Classes & Objects :
 
 Object-oriented programming, or OOP in short, gives you a particular methodology for implementing large and 
 complex programming projects in a very simple manner. The methodology uses the structure of classes and objects, 
@@ -19,7 +19,7 @@ naturally.
 All of these benefits are the requirements of a good software development methodology; and through this module, 
 you will see how all these requirements are met well by an object-oriented programming approach
 
-                                                          Classes
+                                                         Classes
 
 What is a class?
 
@@ -88,7 +88,7 @@ method and a Circle class containing the findArea( ) method.
 ![image](https://user-images.githubusercontent.com/99068989/160252382-00d91513-b14f-45c6-aa55-5b237eaf0d42.png)
 ![image](https://user-images.githubusercontent.com/99068989/160252398-7d9bc43c-1fc3-4296-979a-d94a67f559d9.png)
 
-                                                            Objects
+                                                         Objects
                                                          
 ![image](https://user-images.githubusercontent.com/99068989/160252483-01087078-f8a1-4dcb-ae9b-4ab0ea059c5c.png)
 ![image](https://user-images.githubusercontent.com/99068989/160252496-c51c8f2a-a7d0-4d91-a981-b1ddcdffe1de.png)
