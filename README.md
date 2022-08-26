@@ -10,7 +10,7 @@ All programming languages are not based on this OOP model of classes and objects
 as procedural programming languages. But most of the modern general-purpose programming languages, 
 such as C++, C#, Java, and Python, are object-oriented programming languages. 
 
-Benefits of Object Oriented Programming:
+`Benefits of Object Oriented Programming :`
 1. The most important benefit of an object-oriented approach is that you tend to build any project in a more 
 organised manner, making the development process very efficient.
 2. The second benefit is that an object-oriented approach helps you implement real-world scenarios very 
@@ -21,7 +21,7 @@ you will see how all these requirements are met well by an object-oriented progr
 
                                                          Classes
 
-What is a class?
+`What is a class?`
 
 A class is a blueprint of an application, where you implement methods (to perform certain actions/functionalities) 
 and declare variables (that describe the properties of the application). For example, Payments could be an entire 
